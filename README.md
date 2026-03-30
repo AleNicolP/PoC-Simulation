@@ -95,9 +95,9 @@ In many cases, the difference between the top two candidates is small, which exp
 * `REQUIREMENTS.md` – challenge description
 * `APPROACH.md` – detailed explanation of the solution
 * `entity_resolution_results_simple.csv` – generated results
-* decision_distribution.png - chart
-* score_distribution.png - chart
-* score_gap_distribution.png - chart
+* `decision_distribution.png` - chart
+* `score_distribution.png` - chart
+* `score_gap_distribution.png` - chart
 
 ---
 

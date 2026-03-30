@@ -71,20 +71,3 @@ Provide a clear explanation of your approach:
 * how you approached the matching process
 * what decisions you made and why
 * what observations you made along the way
-
-👉 The focus is on your thinking process, not just the final solution.
-
----
-
-## 4. Publish Your Work
-
-Choose the format that best fits your solution.
-
-* While most challenges are submitted via GitHub,
-  you may link to another platform if more appropriate.
-
----
-
-## 5. Submit the Challenge
-
-Submit your final solution using the provided form.

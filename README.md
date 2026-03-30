@@ -67,6 +67,19 @@ These results indicate that the system is effective at identifying strong matche
 
 ---
 
+## Results Analysis (charts)
+### Decision Distribution
+
+Most cases are confidently classified as matches, while a smaller portion is flagged as ambiguous. Very few cases are classified as no match, indicating that the candidate generation step provides generally relevant options.
+
+### Distribution of Normalized Scores
+
+The majority of top candidates have high normalized scores, which suggests that the scoring system is effective at identifying strong matches. Lower scores are associated with more uncertain or weaker matches.
+
+### Distribution of Score Differences (Top1 vs Top2)
+
+In many cases, the difference between the top two candidates is small, which explains the presence of ambiguous classifications. Larger gaps indicate clearer decisions and higher confidence in the selected match.
+
 ## Tech Stack
 
 * Python
